@@ -7,11 +7,9 @@ class SlotRow extends StatelessWidget {
     required this.slot2,
     required this.slot3,
   });
-
   final String slot1;
   final String slot2;
   final String slot3;
-
   @override
   Widget build(BuildContext context) {
     return FittedBox(
