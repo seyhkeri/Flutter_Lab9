@@ -28,7 +28,7 @@ void main() {
             },
           ),
         ),
-      ), // Scaffold
-    ), // MaterialApp
+      ),
+    ),
   );
 }
